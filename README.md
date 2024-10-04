@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #0077B5;">Hi, I'm George Badulescu</h1>
+<h1 align="center" style="color: #0077B5;">Hi 👋, I'm George Badulescu</h1>
 <h3 align="center" style="color: #0077B5;">
 I'm a passionate Software Developer currently pursuing a B.S. in Computer Science at Arizona State University.  
 I'm eager to solve real-world problems through code and continuously improve my skill set.
@@ -27,7 +27,9 @@ I'm eager to solve real-world problems through code and continuously improve my 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
   <img width="12" />
@@ -47,4 +49,5 @@ I'm eager to solve real-world problems through code and continuously improve my 
 </div>
 
 ---
+
 
