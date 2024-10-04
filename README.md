@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #0077B5;">Hi 👋, I'm George Badulescu</h1>
+<h1 align="center" style="color: #0077B5;">Hi, I'm George Badulescu</h1>
 <h3 align="center" style="color: #0077B5;">
 I'm a passionate Software Developer currently pursuing a B.S. in Computer Science at Arizona State University.  
 I'm eager to solve real-world problems through code and continuously improve my skill set.
