@@ -1,7 +1,9 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+George+Badulescu+👋;Software+Developer+💻;Computer+Science+Student+📚;Problem+Solver+🚀" alt="Typing SVG" />
-  </a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=George%20Badulescu&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</div>
+
+<h1 align="center" style="color: #0077B5;">
+  👋 Hi, I'm George Badulescu
 </h1>
 
 <h3 align="center" style="color: #0077B5;">
@@ -34,14 +36,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gbchill&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gbchill/gbchill/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
